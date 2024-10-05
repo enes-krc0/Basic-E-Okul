@@ -1,0 +1,21 @@
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\bin\Debug\murathocaudemy.exe.config
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\bin\Debug\murathocaudemy.exe
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\bin\Debug\murathocaudemy.pdb
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.Form1.resources
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.Properties.Resources.resources
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.exe
+C:\Users\Enes\Desktop\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.pdb
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.Form1.resources
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.Properties.Resources.resources
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.exe
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\obj\Debug\murathocaudemy.pdb
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\bin\Debug\murathocaudemy.exe.config
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\bin\Debug\murathocaudemy.exe
+C:\Users\Enes\Desktop\TÜM DOSYALAR\form uygulamaları\murathocaudemy\murathocaudemy\bin\Debug\murathocaudemy.pdb
